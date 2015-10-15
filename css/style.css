@@ -1,0 +1,64 @@
+header{
+	padding: 15px 0;
+	margin: 0;
+	color: #fff;
+	border-bottom: solid #333 1px;
+	background: #333;
+}
+.logo{
+	width: 80px;
+	height: 80px;
+}
+nav ul{
+	list-style-type: none;
+	padding-top: 34px;
+	margin: 0 -15px 0 0;
+	float: right;
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+nav li{
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+nav li:hover a{
+	background: #585858;
+}
+nav a{
+	text-decoration: none;
+	padding: 10px 15px;
+	color: #eee;
+	text-shadow: 2px 2px 4px #000;
+}
+nav a:hover{
+	color: #fff;
+}
+.size{
+	width: 100%;
+	height: 100%;
+}
+.gris{
+	background-color: #A4A4A4;
+}
+.cajauno{
+	display: inline-block;
+	position: relative;
+	margin: 20px 0;
+}
+.tamano{
+	width: 18%;
+	height: 18%;
+	padding: 10px;
+}
+.icon{
+	width: 8%;
+	height: 8%;
+}
+.cajados{
+	margin: 0 auto;
+	padding: 20px;
+}
